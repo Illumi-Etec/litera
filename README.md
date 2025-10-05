@@ -41,8 +41,8 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 
 | Nome | Função | GitHub | LinkedIn |
 |------|--------|--------|----------|
-| Marley Santos | Desenvolvedor Full Stack | [@MarleyS439](https://github.com/MarleyS439) | [Marley no LinkedIn](https://www.linkedin.com/in/marleysantos/) |
-| Vitor Mota Novais de Jesus | Função ( UI/UX Designer) | [@usuario](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
+| Marley Santos | Desenvolvedor Full Stack | [@MarleyS439](https://github.com/MarleyS439) | [LinkedIn](https://www.linkedin.com/in/marleysantos/) |
+| Vitor Mota Novais de Jesus | UI/UX Designer | [@vitorMNJ](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
 | Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
 | Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
 | Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
@@ -54,4 +54,5 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/MarleyS439/litera.git
    cd litera/
+
 
