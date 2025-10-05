@@ -31,14 +31,9 @@ Este projeto foi criado como parte do Trabalho de Conclusão de Curso de **Desen
 
 ---
 
-## 💻 Instalação
+### 💻✅ Pré-requisitos de Instalação
 
-> Como o projeto ainda não foi publicado online, é necessário rodá-lo localmente.
-
-### ✅ Pré-requisitos
-
-- PHP (ex: via XAMPP, WAMP, Laragon)
-- Node.js (se usar dependências do `package.json`)
+- PHP (via XAMPP)
 - Editor de código (Visual Studio Code recomendado)
 
 ## 👥 Equipe
@@ -66,6 +61,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
