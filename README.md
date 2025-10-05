@@ -49,9 +49,15 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 |------|--------|--------|----------|
 | Marley Santos | Desenvolvedor Full Stack | [@MarleyS439](https://github.com/MarleyS439) | [LinkedIn](https://www.linkedin.com/in/marleysantos/) |
 | Vitor Mota Novais de Jesus | UI/UX Designer | [@vitorMNJ](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
-| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
-| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
-| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
+| Kauã | Desenvolvedor Full Stack | [@Kazuto15](https://github.com/Kazuto15) ||
+| Matheus Gomes| Desenvolvedor Full Stack | [@ySkillo](https://github.com/ySkillo) | [LinkedIn](https://www.linkedin.com/in/matheus-gomes-40a529222/) |
+| Matheus Campos | Desenvolvedor Back End | [@M4theusCM](https://github.com/M4theusCM) ||
+| Matheus Henrique | Desenvolvedor Back End | [@Tyran15](https://github.com/Tyran15) | [LinkedIn](https://www.linkedin.com/in/matheus-henrique-teixeira-santos/) |
+| Felipe Felix | UI/UX Designer | | |
+| Mariana | Voz para os jogos e video pitch | | |
+
+
+
 
 
 ### 🚀 Passo a passo
@@ -60,6 +66,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
