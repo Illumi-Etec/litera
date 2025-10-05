@@ -35,9 +35,23 @@ Este projeto foi criado como parte do Trabalho de Conclusão de Curso de **Desen
 - Node.js (se usar dependências do `package.json`)
 - Editor de código (Visual Studio Code recomendado)
 
+## 👥 Equipe
+
+Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimento de Sistemas.
+
+| Nome | Função | GitHub | LinkedIn |
+|------|--------|--------|----------|
+| Marley Santos | Desenvolvedor Full Stack | [@MarleyS439](https://github.com/MarleyS439) | [Marley no LinkedIn](https://www.linkedin.com/in/marleysantos/) |
+| Vitor Mota Novais de Jesus | Função ( UI/UX Designer) | [@usuario](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
+| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
+| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
+| Nome da Pessoa | Função | [@usuario](https://github.com/usuario) | [LinkedIn](https://linkedin.com/in/usuario) |
+
+
 ### 🚀 Passo a passo
 
 1. Clone este repositório:
    ```bash
    git clone --branch main --single-branch https://github.com/MarleyS439/litera.git
    cd litera/
+
