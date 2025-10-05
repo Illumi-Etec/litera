@@ -4,7 +4,7 @@
 
 <h1 align="center">Litera - Suíte de Jogos Educacionais para Alfabetização Infantil</h1>
 
----
+
 
 ## 📖 Descrição do Projeto
 
@@ -54,6 +54,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
