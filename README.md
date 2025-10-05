@@ -52,7 +52,8 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 
 1. Clone este repositório:
    ```bash
-   git clone --branch main --single-branch https://github.com/MarleyS439/litera.git
+   git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
