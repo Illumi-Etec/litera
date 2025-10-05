@@ -48,8 +48,13 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 | Matheus Gomes| Desenvolvedor Full Stack | [@ySkillo](https://github.com/ySkillo) | [LinkedIn](https://www.linkedin.com/in/matheus-gomes-40a529222/) |
 | Matheus Campos | Desenvolvedor Back End | [@M4theusCM](https://github.com/M4theusCM) ||
 | Matheus Henrique | Desenvolvedor Back End | [@Tyran15](https://github.com/Tyran15) | [LinkedIn](https://www.linkedin.com/in/matheus-henrique-teixeira-santos/) |
+| Matheus Merlim | Desenvolvedor Front End | | |
+| Renan de Castro | Documentação e pesquisa para o projeto | | [LinkedIn](https://www.linkedin.com/in/renan-de-castro-teixeira-aa4957261/)  |
 | Felipe Felix | UI/UX Designer | | |
 | Mariana | Voz para os jogos e video pitch | | |
+| Milena | Pesquisa para o projeto | | |
+| Heitor | Pesquisa | | |
+
 
 
 
@@ -61,6 +66,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
