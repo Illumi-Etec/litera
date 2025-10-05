@@ -15,6 +15,12 @@ Este projeto foi criado como parte do Trabalho de Conclusão de Curso de **Desen
 
 ---
 
+## 📽️ Video Pitch do Litera
+
+[![Vídeo Pitch Litera](https://img.youtube.com/vi/KXUrpCud9Ck/maxresdefault.jpg)](https://www.youtube.com/watch?v=KXUrpCud9Ck "Vídeo Pitch Litera")
+
+---
+
 ## 🧩 Funcionalidades
 
 - 🅰️ Jogos interativos para aprender o alfabeto  
@@ -54,6 +60,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
