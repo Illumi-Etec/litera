@@ -52,8 +52,8 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 | Renan de Castro | Documentação e pesquisa para o projeto | | [LinkedIn](https://www.linkedin.com/in/renan-de-castro-teixeira-aa4957261/)  |
 | Felipe Felix | UI/UX Designer | | |
 | Mariana | Voz para os jogos e video pitch | | |
-| Milena | Pesquisa para o projeto | | |
-| Heitor | Pesquisa | | |
+| Milena | Documentação e pesquisa para o projeto | | |
+| Heitor | Pesquisa para o projeto| | |
 
 
 
@@ -66,6 +66,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
