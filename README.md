@@ -43,7 +43,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 | Nome | Função | GitHub | LinkedIn |
 |------|--------|--------|----------|
 | Marley Santos | Desenvolvedor Full Stack | [@MarleyS439](https://github.com/MarleyS439) | [LinkedIn](https://www.linkedin.com/in/marleysantos/) |
-| Vitor Mota Novais de Jesus | UI/UX Designer | [@vitorMNJ](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
+| Vitor Mota Novais de Jesus | UI/UX Designer e Video Pitch| [@vitorMNJ](https://github.com/VitorMotaNJ) | [LinkedIn](https://www.linkedin.com/in/vitor-mota-330908227/). |
 | Kauã | Desenvolvedor Full Stack | [@Kazuto15](https://github.com/Kazuto15) ||
 | Matheus Gomes| Desenvolvedor Full Stack | [@ySkillo](https://github.com/ySkillo) | [LinkedIn](https://www.linkedin.com/in/matheus-gomes-40a529222/) |
 | Matheus Campos | Desenvolvedor Back End | [@M4theusCM](https://github.com/M4theusCM) ||
@@ -51,7 +51,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
 | Matheus Merlim | Desenvolvedor Front End | | |
 | Renan de Castro | Documentação e pesquisa para o projeto |[@RenanCT2004](https://github.com/RenanCT2004) | [LinkedIn](https://www.linkedin.com/in/renan-de-castro-teixeira-aa4957261/)  |
 | Felipe Felix | UI/UX Designer |[@FelipeFLX](https://github.com/FelipeFLX) | |
-| Mariana | Voz para os jogos e video pitch | | |
+| Mariana | Voz para os jogos e para o Video Pitch | | |
 | Milena | Documentação e pesquisa para o projeto | | |
 | Heitor | Pesquisa para o projeto| | |
 
@@ -66,6 +66,7 @@ Projeto desenvolvido por alunos da **ETEC Guaianases** no curso de Desenvolvimen
    ```bash
    git clone --branch main --single-branch https://github.com/Illumi-Etec/litera.git
    cd litera/
+
 
 
 
